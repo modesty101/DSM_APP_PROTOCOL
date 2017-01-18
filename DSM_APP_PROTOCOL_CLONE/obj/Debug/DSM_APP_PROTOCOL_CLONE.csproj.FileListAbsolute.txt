@@ -1,0 +1,27 @@
+c:\users\lua\documents\visual studio 2013\Projects\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\bin\Debug\DSM_APP_PROTOCOL_CLONE.exe.config
+c:\users\lua\documents\visual studio 2013\Projects\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.csprojResolveAssemblyReference.cache
+c:\users\lua\documents\visual studio 2013\Projects\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.Main.resources
+c:\users\lua\documents\visual studio 2013\Projects\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.Properties.Resources.resources
+c:\users\lua\documents\visual studio 2013\Projects\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.csproj.GenerateResource.Cache
+c:\users\lua\documents\visual studio 2013\Projects\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\bin\Debug\DSM_APP_PROTOCOL_CLONE.exe
+c:\users\lua\documents\visual studio 2013\Projects\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\bin\Debug\DSM_APP_PROTOCOL_CLONE.pdb
+c:\users\lua\documents\visual studio 2013\Projects\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.exe
+c:\users\lua\documents\visual studio 2013\Projects\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.pdb
+C:\Users\Lua\Downloads\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\bin\Debug\DSM_APP_PROTOCOL_CLONE.exe.config
+C:\Users\Lua\Downloads\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.exe
+C:\Users\Lua\Downloads\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.pdb
+C:\Users\Lua\Downloads\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\bin\Debug\DSM_APP_PROTOCOL_CLONE.exe
+C:\Users\Lua\Downloads\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\bin\Debug\DSM_APP_PROTOCOL_CLONE.pdb
+C:\Users\Lua\Downloads\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.csprojResolveAssemblyReference.cache
+C:\Users\Lua\Downloads\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.Main.resources
+C:\Users\Lua\Downloads\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.Properties.Resources.resources
+C:\Users\Lua\Downloads\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.csproj.GenerateResource.Cache
+C:\Users\genius\Desktop\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\bin\Debug\DSM_APP_PROTOCOL_CLONE.exe.config
+C:\Users\genius\Desktop\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.exe
+C:\Users\genius\Desktop\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.pdb
+C:\Users\genius\Desktop\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.csprojResolveAssemblyReference.cache
+C:\Users\genius\Desktop\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.Main.resources
+C:\Users\genius\Desktop\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.Properties.Resources.resources
+C:\Users\genius\Desktop\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\obj\Debug\DSM_APP_PROTOCOL_CLONE.csproj.GenerateResource.Cache
+C:\Users\genius\Desktop\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\bin\Debug\DSM_APP_PROTOCOL_CLONE.exe
+C:\Users\genius\Desktop\DSM_APP_PROTOCOL_CLONE\DSM_APP_PROTOCOL_CLONE\bin\Debug\DSM_APP_PROTOCOL_CLONE.pdb
